@@ -1,1 +1,1 @@
-# 60-hz-in-vr
+How to get 60hz for gtag or other games, STEP 1: If you have a pc or a android install sidequest STEP 2: after installing sidequest plug in your headset into your phone or pc STEP 3:  Open Sidequest and go to Device Settings and tools (The Wrench icon) STEP 4: Scroll down until you see hz and change it to 60 STEP Final: Boot up your game in vr you will feel a bit laggy but don't worry it's fine (Note Restart your headset to remove the 60 hz)
